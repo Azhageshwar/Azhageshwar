@@ -12,12 +12,9 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1TeAJWnSfFaony6dWYYkBnhxt1sad3H1k/view?usp=sharing](https://drive.google.com/file/d/1TeAJWnSfFaony6dWYYkBnhxt1sad3H1k/view?usp=sharing)
 
-- ⚡ Fun fact **I think I'm a Public Speaker**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/azhageshwaran-muthuvel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="azhageshwaran-muthuvel" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/padipu central" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="padipu central" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
